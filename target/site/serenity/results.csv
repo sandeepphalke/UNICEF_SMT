@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Arrivals tab in SMT application for Store Operator user","Verify user is able to add arrival line and arrival receipt type data and finalize it","FAILURE","2022-12-23T17:55:23.236+05:30[Asia/Calcutta]","0.0","55.93"
+"Arrivals tab in SMT application for Store Operator user","Verify user is able to update arrival line and arrival receipt type data before finalizing","SUCCESS","2022-12-23T17:56:19.239+05:30[Asia/Calcutta]","0.0","66.44"
+"Arrivals tab in SMT application for Store Operator user","Verify user is able to delete arrival line and arrival receipt type data before finalizing","SUCCESS","2022-12-23T17:57:25.718+05:30[Asia/Calcutta]","0.0","67.15"
+"Store Data tab in SMT application for Store Operator user","Verify user is able to add storage data","SUCCESS","2022-12-23T17:59:05.233+05:30[Asia/Calcutta]","0.0","26.72"
+"Store Data tab in SMT application for Store Operator user","Verify user is able to update storage data","SUCCESS","2022-12-23T17:59:31.974+05:30[Asia/Calcutta]","0.0","26.61"
+"Store Data tab in SMT application for Store Operator user","Verify user is able to delete storage data","SUCCESS","2022-12-23T17:59:58.609+05:30[Asia/Calcutta]","0.0","33.54"
